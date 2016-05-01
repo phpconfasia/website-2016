@@ -1,4 +1,4 @@
-nav .nav-wrapper {
+nav .nav-wrapper, footer.page-footer {
   background-color: #555AA4;
 }
 
@@ -22,6 +22,10 @@ nav .nav-wrapper {
 
 .section {
   padding-top: 3em;
+}
+
+.date-details h5{
+  font-size: 1.2em;
 }
 
 @media screen and (min-width: 992px) {
