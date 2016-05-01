@@ -1,0 +1,31 @@
+nav .nav-wrapper {
+  background-color: #555AA4;
+}
+
+.brand-logo {
+  margin-top: 0.2em;
+}
+
+.slider .slides li .caption{
+  top: 51%;
+}
+
+.slider .indicators .indicator-item.active{
+  background-color: #555AA4;
+}
+
+.caption{
+  background-color:rgba(0, 0, 0, 0.4);
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.section {
+  padding-top: 3em;
+}
+
+@media screen and (min-width: 992px) {
+  .brand-logo {
+    margin-left: 0.2em;
+  }
+}
