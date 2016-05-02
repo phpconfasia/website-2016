@@ -4,7 +4,7 @@ nav .nav-wrapper, footer.page-footer {
 
 .brand-logo {
   margin-top: 0.2em;
-  background: top left no-repeat url("/images/phpconfasia-logo.png");
+  background: top left no-repeat url("../images/phpconfasia-logo.png");
   display: block;
   width: 300px;
   height: 105px;
@@ -48,7 +48,7 @@ only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min-device-pixel-ratio: 1.5) {
 
   .brand-logo {
-    background: top left no-repeat url("/images/phpconfasia-logo@2x.png");
+    background: top left no-repeat url("../images/phpconfasia-logo@2x.png");
     background-size: 300px 105px;
   }
 }
