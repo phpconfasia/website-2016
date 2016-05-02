@@ -32,6 +32,10 @@ a>span{
   padding-top: 3em;
 }
 
+.date-details {
+  background-color: #fff;
+  padding: 0.6em;
+}
 .date-details h5{
   font-size: 1.2em;
 }
