@@ -40,6 +40,15 @@ a>span{
   font-size: 1.2em;
 }
 
+.card-panel {
+  padding: 0.5em;
+  margin-bottom: 2px;
+}
+
+.card-panel .row {
+  margin-bottom: 0px;
+}
+
 @media screen and (min-width: 992px) {
   .brand-logo {
     margin-left: 0.2em;
